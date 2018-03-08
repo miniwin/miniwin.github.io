@@ -1,0 +1,19 @@
+body	{
+	text-align: center;
+	font-family: Helvetica;
+	background: #F5FFFA;
+}
+
+hr {
+	width: 200px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#slogan	{
+	font-style: italic;
+	font-weight: bold;
+}
