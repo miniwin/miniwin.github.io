@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Domine|Montserrat');
+
+body	{
+	text-align: center;
+	background: #F5FFFA;
+}
+
+hr {
+	width: 200px;
+}
+
+h1	{
+	font-family: 'Montserrat', sans-serif;
+}
+
+p	{
+
+	font-family: 'Domine', Helvetica, serif;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#slogan	{
+	font-style: italic;
+	font-weight: bold;
+}
