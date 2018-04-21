@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Domine|Montserrat');
+
+body	{
+	text-align: center;
+	background: #F5FFFA;
+}
+
+hr {
+	width: 200px;
+}
+
+h1	{
+	font-family: 'Montserrat', sans-serif;
+}
+
+p	{
+
+	font-family: 'Domine', Helvetica, serif;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#slogan	{
+	font-style: italic;
+	font-weight: bold;
+}
+
+header	{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav	{
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+figure	{
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article	{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer	{
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section	{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
